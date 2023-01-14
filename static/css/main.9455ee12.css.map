@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9455ee12.css","mappings":"AACA,iBAGE,qBACF,CAEA,KACE,uEAEF","sources":["index.css"],"sourcesContent":["/* RESETS */\n*,\n*::before,\n*::after {\n  box-sizing: border-box;\n}\n\ncode {\n  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',\n    monospace;\n}\n"],"names":[],"sourceRoot":""}
